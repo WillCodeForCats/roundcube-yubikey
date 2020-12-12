@@ -1,9 +1,12 @@
 # roundcube-yubikey
 A Yubikey authentication plugin for Roundcube Webmail
 
-This plugin has been tested under Roundcube 1.4.9 (and newer) with the "Elastic" theme only.
-
-<add setup docs here>
+This plugin has been developed and tested under Roundcube 1.4.9 with the "Elastic" theme only.
+  
+## Requirements
+* Roundcube Webmail 1.4.9 or higher
+* Yubico API Key (https://upgrade.yubico.com/getapikey/)
+* PHP PEAR
 
 
 # Credits
